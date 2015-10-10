@@ -1,0 +1,26 @@
+------------------------------------------------------------
+  जलस्तर (Water Level)
+------------------------------------------------------------
+
+
+BRIEF
+
+As name suggests, this application is used to measure the
+level of water in tanks at home.
+
+The level information is provided as JSON data to be used
+in a graphical front-end.
+
+
+DETAILS
+
+I recently started playing with the ESP8266 12-E. This is
+my first project using the chip.
+
+Here, the goal is to measure water level in the overhead
+and underground tanks used in most homes.
+
+The overall project, of course, includes the hardware and
+an Android application.
+
+------------------------------------------------------------
